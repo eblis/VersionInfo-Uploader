@@ -1,0 +1,5 @@
+VIUploader\*.*
+VIUploader\libcurl\*.*
+VIUploader\libcurl\curl\*.*
+docs\*.*
+*.*
